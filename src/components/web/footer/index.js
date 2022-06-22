@@ -8,7 +8,7 @@ export default class Footer extends Component {
                 <div className="container">
                     <div className="col-md-3 footer-grid">
                         <h3>About Us</h3>
-                        <p>This is <Link to="http://abhinashkumar.com/"> Parth Trivedi</Link>. I am Full Stack Developer . I Am Working On Nodejs ,Express, MongoDB & Reactjs since 2 Years . So, If You Want Make Any Kind Of Website/Software Please Freely Contact With Us.</p>
+                        <p>This is <Link to="https://linktr.ee/parthtrivedi"> Parth Trivedi</Link>. I am Full Stack Developer . I Am Working On Nodejs ,Express, MongoDB & Reactjs since 2 Years . So, If You Want Make Any Kind Of Website/Software Please Freely Contact With Us.</p>
                     </div>
                     <div className="col-md-3 footer-grid ">
                         <h3>Menu</h3>
