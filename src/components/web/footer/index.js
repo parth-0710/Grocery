@@ -42,11 +42,12 @@ export default class Footer extends Component {
                         <h2><Link to="/"><b>T<br />H<br />E</b>Big Store<span>The Best Supermarket</span></Link></h2>
                         <p className="fo-para">This is <Link to="https://linktr.ee/parthtrivedi"> Parth Trivedi</Link>. I am Full Stack Developer . I am working on Nodejs ,Express, MongoDB & Reactjs since 2years .So, If You Want Make Any Kind Of Website/Software Please Freely Contact With Us.</p>
                         <ul className="social-fo">
-                            <li><Link to="facebook.com/preeti.trivedi.940098" className=" face"><i className="fa fa-facebook" aria-hidden="true" /></Link></li>
-                            <li><Link to="twitter.com/Parth_0710" className=" twi"><i className="fa fa-twitter" aria-hidden="true" /></Link></li>
-                            <li><Link to="instagram.com/parth_trivedi_07" className=" pin"><i className="fa fa-instagram" aria-hidden="true" /></Link></li>
-                            <li><Link to="snapchat.com/add/parthtrivedi07" className=" dri"><i className="fa fa-snapchat" aria-hidden="true" /></Link></li>
+                        <li><a href="https://www.www.facebook.com/preeti.trivedi.940098" target="_blank"><i className="fa fa-facebook" aria-hidden="true" /></a></li>
+                            <li><a href="https://www.instagram.com/parth_trivedi_07" target="_blank"><i className="fa fa-instagram" aria-hidden="true" /></a></li>
+                            <li><a href="https://www.snapchat.com/add/parthtrivedi07" target="_blank"><i className="fa fa-snapchat" aria-hidden="true" /></a></li>
+                            <li><a href="https://www.twitter.com/Parth_0710" target="_blank"><i className="fa fa-twitter" aria-hidden="true" /></a></li>
                         </ul>
+                        
                         <div className=" address">
                             <div className="col-md-4 fo-grid1">
                                 <p><i className="fa fa-home" aria-hidden="true" />Riaya Chowk , Rajkot , India.</p>
