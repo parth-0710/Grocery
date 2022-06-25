@@ -8,7 +8,7 @@ export default class Footer extends Component {
                 <div className="container">
                     <div className="col-md-3 footer-grid">
                         <h3>About Us</h3>
-                        <p>This is <Link to="http://abhinashkumar.com/"> Parth Trivedi</Link>. I am Full Stack Developer . I Am Working On Nodejs ,Express, MongoDB & Reactjs since 2 Years . So, If You Want Make Any Kind Of Website/Software Please Freely Contact With Us.</p>
+                        <p>This is <a href="https://linktr.ee/parthtrivedi"> Parth Trivedi</a>. I am Full Stack Developer . I Am Working On Nodejs ,Express, MongoDB & Reactjs since 2 Years . So, If You Want Make Any Kind Of Website/Software Please Freely Contact With Us.</p>
                     </div>
                     <div className="col-md-3 footer-grid ">
                         <h3>Menu</h3>
@@ -40,12 +40,12 @@ export default class Footer extends Component {
                     <div className="clearfix" />
                     <div className="footer-bottom">
                         <h2><Link to="/"><b>T<br />H<br />E</b>Big Store<span>The Best Supermarket</span></Link></h2>
-                        <p className="fo-para">This is <Link to="https://linktr.ee/parthtrivedi"> Parth Trivedi</Link>. I am Full Stack Developer . I am working on Nodejs ,Express, MongoDB & Reactjs since 2years .So, If You Want Make Any Kind Of Website/Software Please Freely Contact With Us.</p>
+                        <p className="fo-para">This is <a href="https://linktr.ee/parthtrivedi" target="_blank"> Parth Trivedi</a>. I am Full Stack Developer . I am working on Nodejs ,Express, MongoDB & Reactjs since 2years .So, If You Want Make Any Kind Of Website/Software Please Freely Contact With Us.</p>
                         <ul className="social-fo">
-                        <li><a href="https://www.www.facebook.com/preeti.trivedi.940098" target="_blank"><i className="fa fa-facebook" aria-hidden="true" /></a></li>
-                            <li><a href="https://www.instagram.com/parth_trivedi_07" target="_blank"><i className="fa fa-instagram" aria-hidden="true" /></a></li>
-                            <li><a href="https://www.snapchat.com/add/parthtrivedi07" target="_blank"><i className="fa fa-snapchat" aria-hidden="true" /></a></li>
-                            <li><a href="https://www.twitter.com/Parth_0710" target="_blank"><i className="fa fa-twitter" aria-hidden="true" /></a></li>
+                        <li><a className=" face"href="https://www.facebook.com/preeti.trivedi.940098" target="_blank"><i className="fa fa-facebook" aria-hidden="true" /></a></li>
+                            <li><a className=" pin" href="https://www.instagram.com/parth_trivedi_07" target="_blank"><i className="fa fa-instagram" aria-hidden="true" /></a></li>
+                            <li><a className=" dri" href="https://www.snapchat.com/add/parthtrivedi07" target="_blank"><i className="fa fa-snapchat" aria-hidden="true" /></a></li>
+                            <li><a className=" twi" href="https://www.twitter.com/Parth_0710" target="_blank"><i className="fa fa-twitter" aria-hidden="true" /></a></li>
                         </ul>
                         
                         <div className=" address">
